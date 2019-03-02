@@ -10,10 +10,22 @@
 ### Summury:
 I'm a front-end developer who is making first steps in this domain. I'm passionate about creating html-pages and working on layout and usability. I also have a teachable attitude and a desire to learn (as evidenced by my continued self-study).Looking for possibilities to gain new knowledge and professional experience
 ### Skills:
-
+What | How
+-----|----
+ HTML |:star::star::star::star::star:
+ CSS | :star::star::star::star:~~:star:~~
+ JS | :star::star::star:~~:star::star:~~
+ React | :star::star::star:~~:star::star:~~
+ VS Code | :star::star::star::star:~~:star:~~
+ Git | :star::star::star:~~:star::star:~~
+ MS Excel | :star::star::star::star:~~:star:~~
+ MS Powerpoint | :star::star::star::star::star:
+Communication skills | :star::star::star::star::star:
 ### Code examples:
-### Experience:
+[CV](https://github.com/AlenaKharytonchyk/rsschool-codejam1-cv)
 
+### Experience:
+I have a self work experience in The Rolling Scopes School 3Q18. Also an experience of group work in the task [Culture portal](https://github.com/AlenaKharytonchyk/CodeJam-Culture-Portal_gr24)
 ### Education:
 When | What | Where
 -----|------|------
