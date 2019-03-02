@@ -23,7 +23,9 @@ What | How
 Communication skills | :star::star::star::star::star:
 ### Code examples:
 [CV](https://github.com/AlenaKharytonchyk/rsschool-codejam1-cv)
+
 [Game](https://github.com/rolling-scopes-school/alenakharytonchyk-2018Q3/pull/6)
+
 [RSS-tasks 3Q18](https://github.com/rolling-scopes-school/alenakharytonchyk-2018Q3/branches)
 ### Experience:
 I have a self work experience in The Rolling Scopes School 3Q18. Also an experience of group work in the task [Culture portal](https://github.com/AlenaKharytonchyk/CodeJam-Culture-Portal_gr24)
