@@ -8,7 +8,7 @@
 * github: [Alena Kharytonchyk](https://github.com/AlenaKharytonchyk)
 * Minsk,Belarus
 ### Summury:
-I'm a front-end developer who is making first steps in this domain. I'm passionate about creating html-pages and working on layout and usability. I also have a teachable attitude and a desire to learn (as evidenced by my continued self-study).Looking for possibilities to gain new knowledge and professional experience
+I'm a front-end developer who is making first steps in this domain. I'm passionate about creating HTML pages and working on layout and usability. I also have a teachable attitude and a desire to learn (as evidenced by my continued self-study). I'm looking for possibilities to gain new knowledge and professional experience.
 ### Skills:
 What | How
 -----|----
@@ -27,8 +27,9 @@ Communication skills | :star::star::star::star::star:
 [Game](https://github.com/rolling-scopes-school/alenakharytonchyk-2018Q3/pull/6)
 
 [RSS-tasks 3Q18](https://github.com/rolling-scopes-school/alenakharytonchyk-2018Q3/branches)
+
 ### Experience:
-I have a self work experience in The Rolling Scopes School 3Q18. Also an experience of group work in the task [Culture portal](https://github.com/AlenaKharytonchyk/CodeJam-Culture-Portal_gr24)
+I have a self-work experience in The Rolling Scopes School 3Q18 and a group-work experience in the [Culture portal task](https://github.com/AlenaKharytonchyk/CodeJam-Culture-Portal_gr24)
 ### Education:
 When | What | Where
 -----|------|------
@@ -40,4 +41,4 @@ When | What | Where
 10.2017 | Introduction to Python.Beginner | Edx
 09.2017 | Gaming analytics: from fundamentals to advanced technique | DevtoDev
 ### English Level:
-According to streamline tests, The Rolling Scopes offline presentation and EPAM interview I am B1 speaker.
+According to Streamline language tests, The Rolling Scopes offline presentation and an EPAM interview, I am B1 speaker.
