@@ -36,7 +36,7 @@ body {
   background: url("img/avatar.jpg") no-repeat;
   width: 10em;
   background-color: #575757;
-  background-size: auto;
+  background-size: contain;
   background-position: center;
 }
 .profile__contacts {
